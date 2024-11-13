@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Julia Mendes de Freitas
+=======
+Julia Mendes de Freitas 
+>>>>>>> julia
 email: juulfreitas@gmail.com
